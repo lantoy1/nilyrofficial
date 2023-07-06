@@ -5,7 +5,7 @@
     <img src="https://wakatime.com/badge/user/11acd54a-8c9e-44b7-950c-f6f68e4358fb.svg?style=for-the-badge" alt="Total time coded since Apr 8 2022" />
   </a>
   <a href="https://github.com/nilyr">
-    <img src="https://enus3mxz1xe35k5.m.pipedream.net/">
+    <img src="https://komarev.com/ghpvc/?username=nilyr&style=for-the-badge">
   </a>
 </p>
 
