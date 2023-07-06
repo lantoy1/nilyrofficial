@@ -1,11 +1,5 @@
 <p align="center">
   <a href="https://github.com/nilyr">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=nilyr&column=8&theme=discord&no-frame=true&no-bg=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nilyr">
     <img src="https://wakatime.com/badge/user/11acd54a-8c9e-44b7-950c-f6f68e4358fb.svg?style=for-the-badge" alt="Total time coded since Apr 8 2022" />
   </a>
   <a href="https://github.com/nilyr">
@@ -25,5 +19,13 @@
 <p align="center">
   <a href="https://github.com/nilyr">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilyr&theme=solarized_dark">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/nilyr">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=nilyr&column=8&theme=discord&no-frame=true&no-bg=true"/>
   </a>
 </p>
