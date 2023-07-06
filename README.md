@@ -5,6 +5,7 @@
 
 
 <p align="center">
+  ### 🏆 GitHub Profile Trophy:
   <a href="https://github.com/nilyr">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=nilyr&column=8&theme=discord&no-frame=true&no-bg=true"/>
   </a>
