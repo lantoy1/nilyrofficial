@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&count_private=true&theme=transparent&show_icons=true&hide_border=true&icon_color=5d96f0&text_color=ffffff&layout=compact">
   </a>
   <a href="https://github.com/nilyr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&layout=compact&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilyr&layout=compact&theme=dark">
   </a>
 </p>
 
